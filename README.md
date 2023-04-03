@@ -1,6 +1,6 @@
 **Formula 1 Drivers Dataset**
 
-**Main Point**
+**Main Point** \
 I've thoroughly analyzed a dataset containing information about the performance of Formula One drivers over multiple seasons. After cleaning and preprocessing the data, I explored various features such as the number of wins, points, podiums, and championships won by the drivers, as well as their win and podium rates per race start. Through data visualization and statistical analysis, I was able to uncover interesting insights about the drivers and their performance. For example, I found that the top 10 drivers with the most race wins include legendary names such as Michael Schumacher, Lewis Hamilton, and Alain Prost. Overall, this dataset provided a rich source of information about the history of Formula One and its most successful drivers. By leveraging various data analysis techniques, I was able to gain a deeper understanding of the data and uncover valuable insights that could be used to inform future decisions in the sport.
 
 
