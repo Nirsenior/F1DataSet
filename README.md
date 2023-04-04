@@ -21,7 +21,8 @@ The cleaned dataset was analyzed using various statistical and visualization tec
 
 
 Acknowledgments
-I would like to thank ergast.com for providing the Formula 1 data via their API. I would also like to thank the creators of Python's pandas, numpy, matplotlib, and seaborn libraries for their invaluable contributions to data analysis and visualization.
+I would like to thank Wikipedia and kaggel.com for providing the Formula 1 data.
+I would also like to thank the creators of Python's pandas, numpy, matplotlib, and seaborn libraries for their invaluable contributions to data analysis and visualization.
 
 
 
