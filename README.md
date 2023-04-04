@@ -9,7 +9,7 @@ This dataset contains information about Formula 1 drivers from 1950 to 2021. The
 
 **Data Sources**
 dataset from Wikipedia of all Formula 1 drivers. Link to source: https://en.wikipedia.org/wiki/List_of_Formula_One_drivers
-The data is accurate as of the 2023 Bahrain Grand Prix. Drivers who only participated in Friday practice and who were not actuall
+
 
 Data Cleaning and Preprocessing
 The following steps were taken:
